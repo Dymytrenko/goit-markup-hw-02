@@ -1,0 +1,44 @@
+body {
+    font-family: "Roboto", sans-serif;
+        color: #2E2F42;
+    background-color: #FFFFFF;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    font-family: inherit;
+}
+
+/* h1 */
+.main-title {
+        font-weight: 700;
+    font-size: 56px;
+    /* line-height: 60px; */
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color:#FFFFFF;
+    }
+
+/* h2 */
+.section-title {
+         font-weight: 700;
+        font-size: 36px;
+            /* line-height: 40px; */
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+}
+
+.color-accent {
+    color: #4D5AE5;
+}
